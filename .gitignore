@@ -1,0 +1,6 @@
+.idea/
+.vscode/
+
+ClientApp/node_modules/
+ClientApp/package-lock.json
+wwwroot/dist/
